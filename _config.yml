@@ -1,5 +1,42 @@
+# Site settings
 title: Robert Chen
+email: your-email@example.com
 description: Product Managment Portfolio 
-show_downloads: true
-google_analytics:
+baseurl: "" # the base URL for your site
+url: "https://your-username.github.io" # the URL of your GitHub Pages site
+
+# Cayman theme settings
 theme: jekyll-theme-cayman
+
+# Author and social settings
+author:
+  name: Your Name
+  email: your-email@example.com
+  twitter: your-twitter-handle
+  github: your-github-username
+  linkedin: your-linkedin-profile
+
+# Google Analytics (optional)
+google_analytics: UA-XXXXX-Y # Replace with your Google Analytics ID if you want to enable it
+
+# Navigation settings
+navigation:
+  - Home: /
+  - Projects: /projects
+  - Blog: /blog
+  - About: /about
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - node_modules/
+  - vendor/
+  - .gitignore

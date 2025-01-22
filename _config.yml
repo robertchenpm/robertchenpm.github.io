@@ -1,10 +1,7 @@
 # Site settings
 title: Robert Chen
 email: your-email@example.com
-description:
-Dynamic professional with over 10 years of experience as a program manager in the technology sector, specializing in marketing, sales operations, and licensing. 
-Proven ability to lead cross-functional teams and drive projects to success while aligning product development with market needs. 
-Aiming to transition into a product management role where strategic vision and customer insights can foster innovative solutions.
+description: Dynamic professional with over 10 years of experience as a program manager in the technology sector, specializing in marketing, sales operations, and licensing. Proven ability to lead cross-functional teams and drive projects to success while aligning product development with market needs. Aiming to transition into a product management role where strategic vision and customer insights can foster innovative solutions.
 url: "https://robertchenpm.github.io/" # the URL of your GitHub Pages site
 
 # Cayman theme settings
